@@ -1,0 +1,13 @@
+AMCOL CRUISE ENGLISH PORTAL — NAVIGATION UPDATE V3
+
+Improvements
+- Replaced the crowded row of individual links with grouped top dropdown menus.
+- Added a Courses dropdown with the course map and direct access to Units 1–7.
+- Added a Current Unit Lessons dropdown on all 49 lesson pages.
+- Grouped Listening Lab, Glossary, Resources, and Common Error Bank under Learning Tools.
+- Grouped the Assessment Center, Pre-Test, Capstone, and Post-Test under Assessments.
+- Grouped teacher and administrator pages under a role-controlled Staff menu.
+- Made the Dashboard and logo return users to the correct role-specific dashboard.
+- Added active-page highlighting, descriptions, unit badges, keyboard Escape support, and outside-click closing.
+- Improved responsive mobile navigation with expandable dropdowns.
+- Preserved all lessons, quizzes, autosave, notes, bookmarks, Thai Assist, audio, progress, and offline support.

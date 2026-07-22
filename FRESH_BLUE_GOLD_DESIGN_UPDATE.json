@@ -1,0 +1,14 @@
+{
+  "design": "AMCOL Fresh Blue and Gold",
+  "palette": {
+    "deep_navy": "#062f59",
+    "ocean_blue": "#137fc0",
+    "royal_blue": "#0a4f88",
+    "gold": "#d4a72c",
+    "light_gold": "#f2cc63",
+    "page_background": "#edf6fc",
+    "surface": "#ffffff"
+  },
+  "scope": "Complete Cruise Ship portal: login, dashboards, dropdown navigation, all unit and lesson pages, assessments, tools, and responsive states.",
+  "content_and_functionality_preserved": true
+}
